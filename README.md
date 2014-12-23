@@ -5,8 +5,10 @@ are with the datepickersingle you can make datepicker with both
 multiple fields and calling the function just one time also you 
 can change the skin using $template.
 
-#How to use
+#Dependencies
+Smarty (http://www.smarty.net/) >= 3.0.0
 
+#How to use
 whatever.tpl
 
     <div>
